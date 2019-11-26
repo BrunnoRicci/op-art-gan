@@ -1,2 +1,2 @@
 # op-art-gan
-Application GAN network for op art generation
+Application of GAN network for op art generation
